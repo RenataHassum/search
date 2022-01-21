@@ -3,10 +3,11 @@ body {
   padding: 0px;
   box-sizing: border-box;
   min-height: 100vh;
-  background-color: #cfd1e1;
+  /* background-color: #cfd1e1; */
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: yellow;
 
 }
 
